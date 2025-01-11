@@ -8,8 +8,7 @@
 
 
 ## ScreenShots
-<img width="1680" alt="Screenshot 2024-11-25 at 4 01 15 PM" src="https://github.com/Ramsajan144/Roxiler-Assesment-Mern-Stack/blob/main/Screenshot%202025-01-11%20171430.png
-">
+<img width="1680" alt="Screenshot 2024-11-25 at 4 01 15 PM" src="Screenshot 2025-01-11 174231.png">
 
 
 ## ScreenShots
@@ -40,6 +39,7 @@ How To Run Project
 
 
 ****##Download Repository**
+
 Open Downloaded Repository in Visual Studio Code
 
 Change Directory to frontend Dir using 'cd frontend'
@@ -59,8 +59,6 @@ Run 'npm start' on client Terminal to Start Client Page
 
 
 **How to Load Third party API Data to Database**
-
-
 Direct to 'server/server.js'
 
 Update MongoDB URL in 'server/models/ProductTransaction.js
