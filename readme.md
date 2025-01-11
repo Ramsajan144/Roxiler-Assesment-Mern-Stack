@@ -19,7 +19,7 @@
 
 
 
-Required Softwares
+##Required Softwares
 
 
 Visual Studio Code
@@ -28,7 +28,7 @@ node.js Framework
 How To Run Project
 
 
-Download Repository
+##Download Repository
 Open Downloaded Repository in Visual Studio Code
 Change Directory to frontend Dir using 'cd frontend'
 in VS Code Terminal, Run 'npm i' or 'npm install'
